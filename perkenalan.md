@@ -1,8 +1,8 @@
 # Perkenalan
 
 Nama : Fikri Alfarizi  
-NPM : (isi NPM kamu)  
-Program Studi : (isi prodi kamu)
+NPM : 2313020223
+Program Studi : Teknik Informatika
 
 Minat bidang IT :
 Saya tertarik pada bidang teknologi informasi sebagai ketrampilan pendukung di era digital
